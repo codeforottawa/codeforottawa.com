@@ -1,0 +1,9 @@
+.hero {
+  background-image: linear-gradient(rgba(153, 27, 27, 0.8), rgba(153, 27, 27, 0.8)), url('/assets/images/ottawa.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.card-title {
+  color: #991b1b; /* Deep Red */
+}
